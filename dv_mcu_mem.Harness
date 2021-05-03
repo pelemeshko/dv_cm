@@ -1,0 +1,2 @@
+MCU_Parallel_Mem_Bus=A_0,A_1,A_2,A_3,A_4,A_5,A_6,A_7,A_8,A_9,A_10,A_11,A_12,A_13,A_14,A_15,~WE,~OE,~CS_0,~CS_1,D_7,D_6,D_5,D_4,D_3,D_2,D_1,D_0
+MCU_SPI_Mem_Bus=~FS_0,~FS_1,~FS_2,~FS_3,~FS_4,SCK,MOSI,MISO
