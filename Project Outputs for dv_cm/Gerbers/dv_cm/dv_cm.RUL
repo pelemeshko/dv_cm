@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_cm\dv_cm.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Pelemeshko-OAI\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_cm\dv_cm.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
